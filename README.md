@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muchtoosoon, Nice meet you
+- 👋 Hi, I’m @muchtoosoon, Cool to meet you
 - 👀 I’m interested in PC Games, Cool Rig
 - 🌱 I’m currently learning Front-End Web Development
 - 💞️ I’m looking to collaborate on web dev.
