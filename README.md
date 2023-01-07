@@ -1,7 +1,7 @@
-Hyper Text Transfer Protocol
-Hyper Text Markup Language
-Cascading Style Sheets
-Java Script
+- Hyper Text Transfer Protocol
+- Hyper Text Markup Language
+- Cascading Style Sheets
+- Java Script
 
 ```
 ⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠉⠉⠉⠉⠋⠉⠉⠙⠛⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿
