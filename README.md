@@ -1,13 +1,13 @@
 - Hyper Text Transfer Protocol
-- 
+
 - Hyper Text Markup Language
 
 - Cascading Style Sheets
-- 
+
 - Java Script
-- 
+
 - JavaScript Object Notation
-- 
+
 - Extensible Markup Language
 
 
