@@ -6,7 +6,7 @@
 
 - Java Script
 
-- JavaScript Object Notation
+- Java Script Object Notation
 
 - Extensible Markup Language
 
