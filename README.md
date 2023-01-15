@@ -6,11 +6,13 @@
 
 - Java Script
 
-- Java Script Object Notation
-
 - Extensible Markup Language
 
+- Java Script Object Notation
+
 - Content Delivery Network
+
+- Completely Automated Public Turing Test To Tell Computers and Humans Apart
 
 ```
 　　　　 　　 ＿＿
